@@ -3,7 +3,7 @@
 #include <cassert>
 #include <string>
 #include <algorithm>
-//#define DEBUG 
+#define DEBUG 
 using namespace std;
 
 namespace SortTestHelper {
