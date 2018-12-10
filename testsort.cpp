@@ -54,7 +54,7 @@ namespace SortTestHelper {
 
 void BubbleSort(int a[],int n)
 {
-	
+	int a,b;
 	
 }
 
